@@ -37,6 +37,14 @@ body {
 .project {
     margin-left:  20px;
 }
-/*#project1 {
+
+p {
+    font-variant : small-caps;
+}
+
+.project p {
+    font-variant : small-caps;
+}
+#project1 {
     font-variant: small-caps;
-}*/
+}
