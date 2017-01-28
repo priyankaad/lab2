@@ -34,7 +34,9 @@ body {
 }
 
 
-
+.project {
+    margin-left:  20px;
+}
 #project1 {
     font-variant: small-caps;
 }
