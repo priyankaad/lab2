@@ -36,6 +36,9 @@ body {
 
 .project {
     margin-left:  20px;
+    background -color : #2FC7FF;
+    padding : 20px;
+    width : 525px;
 }
 
 p {
